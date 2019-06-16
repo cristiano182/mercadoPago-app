@@ -10,9 +10,9 @@ você precisará ter um ambiente básico para executar um aplicativo React-Nativ
 # Instalando
 Clonando o repositório
 
-$ git clone https://github.com/cristiano182/bancoInter-app
+$ git clone https://github.com/cristiano182/mercadoPago-app
 
-$ cd bancoInter-app
+$ cd mercadoPago-app
 
 Instalando dependências
 
