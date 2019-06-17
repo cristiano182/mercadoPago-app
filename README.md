@@ -1,7 +1,7 @@
 # mercadoPago-app
 Aplicativo Mercado Pago. Clone da Interface. Construído com React Native.
 
-<img src="https://github.com/cristiano182/mercadoPago-app/blob/master/preview.gif" alt="preview" width="200"/>
+<img src="https://github.com/cristiano182/mercadoPago-app/blob/master/preview.gif" alt="preview" width="300"/>
 
 # Começando
 Pré-requisitos Para executar este projeto no modo de desenvolvimento, 
